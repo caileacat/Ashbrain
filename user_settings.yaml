@@ -1,0 +1,5 @@
+preload:
+  model: openhermes-2.5-mistral-7b.Q4_K_M.gguf
+  format: gguf
+  character: Ash
+  test_key: this_should_error

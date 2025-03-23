@@ -25,6 +25,11 @@ transformers==4.49.*
 tqdm
 wandb
 
+discord.py
+python-dotenv
+pynacl
+docker
+
 # API
 SpeechRecognition==3.10.0
 flask_cloudflared==0.0.14
